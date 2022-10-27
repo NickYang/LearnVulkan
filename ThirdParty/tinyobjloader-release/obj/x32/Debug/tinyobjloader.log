@@ -1,0 +1,3 @@
+﻿  loader_example.cc
+E:\github\LearnVulkan\ThirdParty\tinyobjloader-release\tiny_obj_loader.h(1422,20): warning C4244: “初始化”: 从“double”转换到“tinyobj::real_t”，可能丢失数据
+  tinyobjloader.vcxproj -> E:\github\LearnVulkan\ThirdParty\tinyobjloader-release\bin\x32\Debug\loader_example_debug.exe
